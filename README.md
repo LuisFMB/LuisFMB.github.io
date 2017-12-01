@@ -10,7 +10,7 @@ Camera Effects
 
 This is my camera effect project 
 
-![picture_title](picture filename?raw=true "Optional Title")
+![Luis Clown](picture filename?raw=true "Optional Title")
 
 
 ***
